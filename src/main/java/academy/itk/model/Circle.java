@@ -7,7 +7,7 @@ public class Circle extends Shape {
     private final double r;
 
     public Circle(double r) {
-        super(ShapeType.Circle);
+        super(ShapeType.CIRCLE);
         this.r = r;
     }
 

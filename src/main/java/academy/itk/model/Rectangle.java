@@ -8,7 +8,7 @@ public class Rectangle extends Shape {
     private double b;
 
     public Rectangle(double a, double b) {
-        super(ShapeType.Rectangle);
+        super(ShapeType.RECTANGLE);
         this.a = a;
         this.b = b;
     }
