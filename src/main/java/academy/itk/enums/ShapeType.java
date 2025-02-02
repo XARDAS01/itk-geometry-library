@@ -1,4 +1,4 @@
-package academy.itk;
+package academy.itk.enums;
 
 public enum ShapeType {
 

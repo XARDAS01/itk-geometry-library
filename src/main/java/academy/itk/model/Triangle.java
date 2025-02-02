@@ -1,6 +1,6 @@
 package academy.itk.model;
 
-import academy.itk.ShapeType;
+import academy.itk.enums.ShapeType;
 
 public class Triangle extends Shape {
 

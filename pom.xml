@@ -7,7 +7,7 @@
   <name></name>
   <groupId>academy.itk</groupId>
   <artifactId>itk-geometry-library</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.1.0</version>
 
   <build>
     <plugins>

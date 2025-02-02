@@ -1,6 +1,6 @@
 package academy.itk.model;
 
-import academy.itk.ShapeType;
+import academy.itk.enums.ShapeType;
 import academy.itk.service.ShapeService;
 
 public abstract class Shape implements ShapeService {
